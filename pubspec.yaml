@@ -1,5 +1,5 @@
 name: nacos_manager
-description: "A new Flutter project."
+description: "Nacos Management Expert In Your Pocket"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -104,11 +104,11 @@ flutter:
 
 # 应用图标配置
 flutter_launcher_icons:
-  image_path: "assets/images/nacos_circle.png"
+  image_path: "assets/images/ncm_icon.jpg"
   android:
     enabled: true
     adaptive_icon_background: "#FFFFFF"
-    adaptive_icon_foreground: "assets/images/nacos_circle.png"
+    adaptive_icon_foreground: "assets/images/ncm_icon.jpg"
   ios:
     enabled: true
   # fonts:
