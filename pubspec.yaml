@@ -107,8 +107,8 @@ flutter_launcher_icons:
   image_path: "assets/images/ncm_icon.jpg"
   android:
     enabled: true
-    adaptive_icon_background: "#FFFFFF"
-    adaptive_icon_foreground: "assets/images/ncm_icon.jpg"
+    adaptive_icon_background: "assets/images/ncm_icon.jpg"
+    adaptive_icon_foreground: "assets/images/ncm_logo.jpg"
   ios:
     enabled: true
   # fonts:
